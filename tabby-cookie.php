@@ -2,9 +2,10 @@
 
 /*
 Plugin Name: Tabby Cookie
-Plugin URI: http://github.com/limikael/tabby-cookie
+Plugin URI: http://github.com/tunapanda/tabby-cookie
 Description: Make Tabby Responsive Tabs stay on the active tab on reload.
 Version: 0.0.1
+GitHub Plugin URI: https://github.com/tunapanda/tabby-cookie
 */
 
 /**
